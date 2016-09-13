@@ -1,3 +1,3 @@
-# brainfuck
+# Serial Experiments Brainfuck
 
-Помойка для скриптов ориентированных для игр с Brainfuck 
+Помойка для скриптов которыми я играюсь с Brainfuck 
