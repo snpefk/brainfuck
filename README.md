@@ -1,1 +1,3 @@
-# brainfuck-interpretator
+# brainfuck
+
+Помойка для скриптов ориентированных для игр с Brainfuck 
